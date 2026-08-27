@@ -1,0 +1,10 @@
+name: credit-risk-dashboard
+title:
+username: margheritaarena
+account: margheritaarena
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17762981
+bundleId: 12466482
+url: https://margheritaarena.shinyapps.io/credit-risk-dashboard/
+version: 1
